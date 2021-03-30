@@ -11,6 +11,9 @@
   <img src="https://img.shields.io/badge/Made%20with-PYTHON%203.9-1f425f?style=plastic" alt="kenmeiyoki" />
 </p>
 
+## WARNING -- BASICALLY IT WAS A CHALLENGE !!
+<img src="https://cdn.kprz.fr/git/warn.png">
+
 ## Why the code looks like nothing! (in original.py)
 Basically it was a challenge that was given to me by a friend. These conditions are:
 → Done a code WITH LESS THAN 21 LINES (commentary, settings and log are not taken into account)
