@@ -15,21 +15,21 @@
 <img src="https://cdn.kprz.fr/git/warn.png">
 
 ## Why the code looks like nothing! (in original.py)
-Basically it was a challenge that was given to me by a friend. These conditions are:
-→ Done a code WITH LESS THAN 21 LINES (commentary, settings and log are not taken into account)
+Basically it was a challenge that was given to me by a friend. These conditions are:<BR/>
+→ Done a code WITH LESS THAN 21 LINES (commentary, settings and log are not taken into account)<BR/>
 → Done this in only 2 hours...
 
 ## Note
-!!! THIS CODE CONTAINS A KNOWN BUG !!!
+!!! THIS CODE CONTAINS A KNOWN BUG !!!<BR/>
 → At the end of folder some image will be repeated...
 
 
 # Description
-0. RESET FILE lock.txt IF CONTAINS SOMETHING
-1. Choose a folder where put image
-2. Connect your telegram bot then get id of channel
-3. Choose period (in second)
-4. Launch script named launcher.py
+0. RESET FILE lock.txt IF CONTAINS SOMETHING<BR/>
+1. Choose a folder where put image<BR/>
+2. Connect your telegram bot then get id of channel<BR/>
+3. Choose period (in second)<BR/>
+4. Launch script named launcher.py<BR/>
 5. That's all...
 
 # License (All files in this project)  <img src="https://img.shields.io/github/license/Kenmeiyoki/periodic-send-image-album-telegram?style=plastic" alt="kenmeiyoki" />
