@@ -3,6 +3,7 @@
 # CREATION DATE : 2021-3-29 23:20 P.M UTC+1
 # VERSION       : 0.0.1
 # LICENSE       : MIT
+# https://github.com/Kenmeiyoki/ken-logger
 
 from colorama import Fore, Back, Style, init
 init(autoreset=True)
